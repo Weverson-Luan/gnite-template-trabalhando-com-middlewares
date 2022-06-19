@@ -41,7 +41,6 @@ $ git clone https://github.com/Weverson-Luan/gnite-template-trabalhando-com-midd
 # Access the project folder cmd/terminal
 $ cd ignite-template-trabalhando-com-middlewares
 
-
 # Install the dependencies
 $ yarn install
 
