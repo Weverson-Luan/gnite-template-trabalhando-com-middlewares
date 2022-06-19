@@ -35,7 +35,6 @@ describe('checksCreateTodosUserAvailability', () => {
           body: obj
         }
       });
-
       return response;
     };
 
